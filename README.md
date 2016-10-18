@@ -1,3 +1,3 @@
 Sample Gmail App ......
 
-![](https://i.stack.imgur.com/9dxVo.png)       ![](https://i.stack.imgur.com/Tre48.png)
+![](https://i.stack.imgur.com/9dxVo.png)       ![](https://i.stack.imgur.com/Z0zLz.png)
